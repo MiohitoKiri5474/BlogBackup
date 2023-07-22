@@ -35,4 +35,4 @@ jobs:
       - name: Deploy
         uses: sma11black/hexo-action@v1.0.3
         with:
-          deploy_key: ${{ secrets.CODE_SEC }}
+          deploy_key: ${{ secrets.GAME_SEC }}
