@@ -28,7 +28,7 @@ jobs:
         run: npm i -g hexo-cli && npm i
 
       - name: WTF
-        run: npm audit
+        run: npm audit && npm audit fix
 
       - name: Deploy
         uses: sma11black/hexo-action@v1.0.3
