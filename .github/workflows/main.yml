@@ -1,4 +1,4 @@
-name: Auto Deploy to GitHub Pages
+name: Auto Deploy to GitHub Pages (code)
 
 on:
   push:
@@ -35,4 +35,4 @@ jobs:
       - name: Deploy
         uses: sma11black/hexo-action@v1.0.3
         with:
-          deploy_key: ${{ secrets.MINE }}
+          deploy_key: ${{ secrets.CODE_SEC }}
