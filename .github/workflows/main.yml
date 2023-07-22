@@ -2,9 +2,9 @@ name: Auto Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ "mio" ]
+    branches: [ "game" ]
   pull_request:
-    branches: [ "mio" ]
+    branches: [ "game" ]
 
   workflow_dispatch:
 
