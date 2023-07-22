@@ -35,7 +35,7 @@ tags:
 
 ### JP RC
 
-{% asset_img Grixis-Yorion-JPRC.png "日本 RC 的 Grixis Yorion" %}
+{% asset_img Grixis-Yorion-JPRC.jpg "日本 RC 的 Grixis Yorion" %}
 
 日本 RC 的牌表與其說是格利極不如說是紅黑，藍色元素太少了，而且也沒有利用到 Yorion flick 的效果，如果只是想要把更多備牌帶進正編而打 80 張的紅黑中速，感覺不是一個好選擇。
 
