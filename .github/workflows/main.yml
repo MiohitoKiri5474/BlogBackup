@@ -2,9 +2,9 @@ name: Auto Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "main" ]
 
   workflow_dispatch:
 
@@ -25,7 +25,7 @@ jobs:
           cache: 'npm'
 
       - name: Node.js Package install
-        run: cd game && npm i -g hexo-cli && npm i
+        run: npm i -g hexo-cli && npm i
 
       - name: WTF
         run: npm audit
