@@ -18,6 +18,9 @@ jobs:
       - name: Set Time Zone
         run: sudo timedatectl set-timezone 'Asia/Taipei'
 
+      - name: Add GitHub into ssh_known
+        run: ssh-keyscan github.com >> ~/.ssh/known_hosts
+
       - name: Node.js Setup
         uses: actions/setup-node@v2
         with:
@@ -27,7 +30,7 @@ jobs:
       - name: Node.js Package install
         run: npm i -g hexo-cli && npm i
 
-      - name: WTF
+      - name: Fix Node.js Package Problem
         run: npm audit fix --force
 
       - name: Deploy
