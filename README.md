@@ -4,5 +4,4 @@ This repo is the source of my blog, [Gamer MiohitoKiri](https://miohitokiri5474.
 
 The topic of this blog are related TCG game (mainly Magic: The Gathering) and some video games.
 
-
-
+This blog is power by [Hexo](https://hexo.io/) and the theme is [NexT](https://theme-next.js.org).
