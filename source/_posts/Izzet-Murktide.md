@@ -62,7 +62,7 @@ Consider & Expressive Iteration 就是濾牌，沒什麼好說的。
 一張 Blood Moon + 一張 Magus of the Moon 打克薩傳、多色套牌、綠泰坦、創等等。
 一張 Force of Negation + 一張 Mystical Dispute \\更多的康/
 一張 Fury 打紅燒或是內戰這種小生物很多的牌。
-一張 Commandeer 打創或綠泰坦這種高牌張 value 的牌組。打創抓對手的大小卡恩（內戰的時候誰先拍小卡恩誰贏）、戒指、烏拉莫、亞龍捲引擎都很舒服，綠泰坦現在也會帶戒指了，把綠泰坦本人抓來擋對手的組合技也很棒。
+一張 Commandeer 打創這種高牌張 value 的牌組。打創抓對手的大小卡恩（內戰的時候誰先拍小卡恩誰贏）、戒指都很舒服，綠泰坦現在也會帶戒指了，把戒指抓過來換我抽牌也是很舒服。
 
 ## Match Detail
 
