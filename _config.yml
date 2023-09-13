@@ -170,3 +170,6 @@ neat_js:
     - '**/*.min.js'
     - '**/jquery.fancybox.pack.js'
     - '**/index.js'  
+
+nofollow:
+  enable: true
