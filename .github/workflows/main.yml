@@ -30,7 +30,7 @@ jobs:
           cache: 'npm'
 
       - name: Node.js Package install
-        run: npm i
+        run: npm i -g hexo-cli && npm i
 
       - name: Deploy
         run: hexo clean && hexo g && hexo d
