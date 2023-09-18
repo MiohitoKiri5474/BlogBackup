@@ -40,4 +40,5 @@ jobs:
 
       - name: Deploy
         run: |
+          rm -rf node_modules && npm install --force
           hexo clean && hexo g && hexo d
