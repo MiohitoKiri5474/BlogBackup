@@ -33,6 +33,4 @@ jobs:
         run: npm i
 
       - name: Deploy
-        uses: sma11black/hexo-action@v1.0.3
-        with:
-          deploy_key: ${{ secrets.GAME_SEC }}
+        run: hexo clean && hexo g && hexo d
