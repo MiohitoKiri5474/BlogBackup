@@ -33,4 +33,6 @@ jobs:
         run: npm i -g hexo-cli && npm i
 
       - name: Deploy
-        run: hexo clean && hexo g && hexo d
+        run: |
+          rm -rf node_modules && npm install --force
+          hexo clean && hexo g && hexo d
