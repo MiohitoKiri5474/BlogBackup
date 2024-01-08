@@ -72,7 +72,7 @@ LTR 的影響相信不用我多說，Orcish Bowmasters 改變了整個賽場，�
 ![](Temur-Rhinos.png)
 
 如同前面所說，Rhinos 是我近期練習量最多的套牌。
-目前大概在一年前也有一次店冠，我就是拿 Rhinos 打到八強，而且還借的超級臨時幾乎沒練牌XD
+大概在一年前也有一次店冠，我就是拿 Rhinos 打到八強，而且還借的超級臨時幾乎沒練牌XD
 但過了一年，多了不少牌組和新科技，使得對局多了一個維度（cascade trigger 會不會被 Tidebinder 康）需要去思考，也多了一個實用的新 Command: Flame of Anor。
 其他部分我覺得差不多就那樣，犀牛嘛，沒什麼好說的。
 
