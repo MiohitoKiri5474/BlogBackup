@@ -4,3 +4,4 @@ debug.log
 .deploy*/
 public/
 node_modules/
+db.json
